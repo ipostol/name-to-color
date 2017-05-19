@@ -1,0 +1,26 @@
+{
+  "name": "name-to-color",
+  "version": "1.0.0",
+  "description": "Generate color from name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipostol/name-to-color.git"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "name",
+    "fullname",
+    "hex"
+  ],
+  "author": "Postol Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipostol/name-to-color/issues"
+  },
+  "homepage": "https://github.com/ipostol/name-to-color#readme"
+}
